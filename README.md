@@ -25,13 +25,13 @@
 
 # 게임 분석서
 <a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/넥슨_분석포트폴리오_김소연.pdf">
-  <img src="https://github.com/KimDitt0/Portfolio/raw/main/블루아카이브.png" alt="Thumbnail" style="width:280px;"/>
+  <img src="https://github.com/KimDitt0/Portfolio/raw/main/블루아카이브.png" alt="Thumbnail" style="width:250px;"/>
 </a>
 <a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/데브_분석포트폴리오_김소연.pdf">
-  <img src="https://github.com/KimDitt0/Portfolio/raw/main/쿠키런모험의탑.png" alt="Thumbnail" style="width:280px;"/>
+  <img src="https://github.com/KimDitt0/Portfolio/raw/main/쿠키런모험의탑.png" alt="Thumbnail" style="width:250px;"/>
 </a>
 <a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/에픽세븐_분석_김소연.pdf">
-  <img src="https://github.com/KimDitt0/Portfolio/raw/main/에픽세븐.png" alt="Thumbnail" style="width:280px;"/>
+  <img src="https://github.com/KimDitt0/Portfolio/raw/main/에픽세븐.png" alt="Thumbnail" style="width:250px;"/>
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Contact&reversal=false&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=12&animation=fadeIn&desc=📩%20:%20wohaha1220@naver.com&descSize=20&descAlignY=59&fontAlignY=42&section=footer&descAlign=17)
