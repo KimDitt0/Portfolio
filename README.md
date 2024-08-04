@@ -78,13 +78,13 @@
 </br>
 
 # 📒 게임 분석서
-<a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/넥슨_분석포트폴리오_김소연.pdf">
+<a href="https://github.com/KimDitt0/Portfolio/raw/main/넥슨_분석포트폴리오_김소연.pdf">
   <img src="https://github.com/KimDitt0/Portfolio/raw/main/블루아카이브.png" alt="Thumbnail" style="width:250px;"/>
 </a>
-<a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/데브_분석포트폴리오_김소연.pdf">
+<a href="https://github.com/KimDitt0/Portfolio/raw/main/데브_분석포트폴리오_김소연.pdf">
   <img src="https://github.com/KimDitt0/Portfolio/raw/main/쿠키런모험의탑.png" alt="Thumbnail" style="width:250px;"/>
 </a>
-<a href="https://github.com/KimDitt0/Portfolio/raw/main/path/to/에픽세븐_분석_김소연.pdf">
+<a href="https://github.com/KimDitt0/Portfolio/raw/main/에픽세븐_분석_김소연.pdf">
   <img src="https://github.com/KimDitt0/Portfolio/raw/main/에픽세븐.png" alt="Thumbnail" style="width:250px;"/>
 </a>
 
